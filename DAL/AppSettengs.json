@@ -1,0 +1,5 @@
+﻿{
+	"ConnectionStrings": {
+		"default": "Server=.;Database=ITI;Trusted_Connection=True;TrustServerCertificate=True"
+	}
+}
